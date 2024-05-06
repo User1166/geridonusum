@@ -1,1 +1,2 @@
 # geridonusum
+geridonusum uygulaması
